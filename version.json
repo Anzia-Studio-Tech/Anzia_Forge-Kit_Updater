@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.2.5/Anzia_Forge-Kit_v1.2.5.rbz",
+  "version": "1.2.6",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.2.6/Anzia_Forge-Kit_v1.2.6.rbz",
   "changelog": [
-    "Second Update",
+    "Another Update",
     "plugin anzia forge-kit"
   ]
 }
