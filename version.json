@@ -1,8 +1,10 @@
 {
-  "version": "1.2.8",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.2.8/Anzia_Forge-Kit_v1.2.8.rbz",
+  "version": "1.3.0",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.3.0/Anzia_Forge-Kit_v1.3.0.rbz",
   "changelog": [
-    "Perbaikan Bug Pada TAB Segment",
-    "pengelolan sub-model dengan dialog utama lebih stabil"
+    "tambahan fitur placement point",
+    "suport hampir semua path (spiral, curve, Circle, L, U, dll",
+    "Stabilisasi pembentukan geometry pada path curve",
+    "3 mode preview (I, L, C)"
   ]
 }
