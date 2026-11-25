@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.4.0/Anzia_Forge-Kit_v1.4.0.rbz",
+  "version": "1.5.0",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia_Forge-Kit_Updater/releases/download/v1.5.0/Anzia_Forge-Kit_v1.5.0.rbz",
   "changelog": [
-    "Shorcut Placement Point, TAB key on the keyboard ",
-    "a new page for the free forge-kit model colection",
-    "additional buttons for managing object layer arrangement",
-    "the layer duplication system has become more stable"
+    "Tambahan fitur cut hole forge-kit",
+    "integrasi dialog forge-kit ke cut hole",
+    "perbaikan preview dan system penempatan",
+    "perbaikan length preview"
   ]
 }
